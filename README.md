@@ -10,16 +10,16 @@
   
 <h2>Languages:</h2>
 
-![Kotlin](https://img.shields.io/badge/kotlin-%23ED8B00.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%23ED8B00.svg?style=for-the-badge&logo=kotlin&logoColor=16FF00)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=16FF00)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=16FF00)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=16FF00)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=16FF00)
+![React](https://img.shields.io/badge/react-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=16FF00)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=16FF00)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=16FF00)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe&size=compact&bg_color=0d1117&border_color=16FF00&title_color=16FF00&text_color=16FF00) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Felipeg&layout=compact&bg_color=0d1117&border_color=16FF00&title_color=16FF00&text_color=BD71FA) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe&size=compact&bg_color=0d1117&border_color=16FF00&title_color=16FF00&text_color=16FF00) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Felipeg&layout=compact&bg_color=0d1117&border_color=16FF00&title_color=16FF00&text_color=16FF00) 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Felipeg&bg=compact&bg_color=0d1117&border_color=16FF00&title_color=16FF00&text_color=16FF00_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
