@@ -16,7 +16,6 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%23323330.svg?style=for-the-badge&logo=kotlin&logoColor=16FF00)
 ![Java](https://img.shields.io/badge/java-%23323330.svg?style=for-the-badge&logo=openjdk&logoColor=16FF00)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=16FF00)
-![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=16FF00)
 ![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=16FF00)
 ![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=for-the-badge&logo=html5&logoColor=16FF00)
 ![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=16FF00)
