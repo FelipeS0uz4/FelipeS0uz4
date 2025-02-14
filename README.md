@@ -1,7 +1,7 @@
 <hr>
 <img src="https://readme-typing-svg.herokuapp.com/?color=16FF00&size=35&center=true&vCenter=true&width=1000&lines=Olá,+me+chamo+Felipe+Souza+Panichi;Moro+em+São+Paulo,+SP;&https://git.io/typing-svg"/>
 <hr>
-<h2>Technologies:</h2>
+<h2>Tecnologias:</h2>
 
   ![ClickUp](https://img.shields.io/badge/Clickup-%23323330.svg?style=for-the-badge&logo=clickup&logoColor=16FF00)
   ![NodeJS](https://img.shields.io/badge/node.js-%23323330?style=for-the-badge&logo=node.js&logoColor=16FF00)
