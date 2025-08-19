@@ -23,8 +23,10 @@
 
 
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeS0uz4&size=compact&bg_color=0d1117&border_color=16FF00&title_color=16FF00&text_color=16FF00&custom_title=GitHub+Status) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FelipeS0uz4&layout=compact&bg_color=0d1117&border_color=16FF00&title_color=16FF00&text_color=16FF00&custom_title=Linguagens+Mais+Usadas) 
-  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeS0uz4&size=compact&bg_color=0d1117&border_color=16FF00&title_color=16FF00&text_color=16FF00&custom_title=GitHub+Status) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeS0uz4&layout=compact&bg_color=0d1117&border_color=16FF00&title_color=16FF00&text_color=16FF00) 
+
+
 
 
 
