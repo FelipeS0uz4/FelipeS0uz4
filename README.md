@@ -21,10 +21,3 @@
 ![CSS3](https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=16FF00)
 ![MySQL](https://img.shields.io/badge/mysql-%23323330.svg?style=for-the-badge&logo=mysql&logoColor=16FF00)
 
-
-
-
-
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FelipeS0uz4&bg=compact&bg_color=0d1117&border_color=16FF00&title_color=16FF00&text_color=16FF00&border=16FF00&line=16FF00&point=16FF00&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
