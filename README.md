@@ -22,9 +22,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%23323330.svg?style=for-the-badge&logo=mysql&logoColor=16FF00)
 
 
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeS0uz4&size=compact&bg_color=0d1117&border_color=16FF00&title_color=16FF00&text_color=16FF00&custom_title=GitHub+Status) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeS0uz4&layout=compact&bg_color=0d1117&border_color=16FF00&title_color=16FF00&text_color=16FF00) 
 
 
 
